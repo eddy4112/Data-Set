@@ -1,0 +1,31 @@
+Car Name,Year,Selling Price,Present_Price,Kms Driven,Fuel,Seller Type,Transmission,Owner
+amaze,2014,3.75,6.8,33019,Petrol,Dealer,Manual,0
+Bajaj  ct 100,2015,0.18,0.32,35000,Petrol,Individual,Manual,0
+camry,2006,2.5,23.73,142000,Petrol,Individual,Automatic,3
+ciaz,2017,7.25,9.85,6900,Petrol,Dealer,Manual,0
+corolla altis,2011,4.35,13.74,88000,Petrol,Dealer,Manual,0
+elantra,2015,11.45,14.79,12900,Petrol,Dealer,Automatic,0
+eon,2012,2,4.43,23709,Petrol,Dealer,Manual,0
+etios liva,2013,3.45,6.05,47000,Petrol,Dealer,Manual,0
+fortuner,2012,14.9,30.61,104707,Diesel,Dealer,Automatic,0
+grand i10,2015,5.5,5.7,4492,Petrol,Dealer,Manual,0
+Hero  CBZ Xtreme,2008,0.2,0.787,50000,Petrol,Individual,Manual,0
+Honda Activa 125,2016,0.35,0.57,24000,Petrol,Individual,Automatic,0
+Honda Karizma,2010,0.31,1.05,213000,Petrol,Individual,Manual,0
+Hyosung GT250R,2014,1.35,3.45,16500,Petrol,Individual,Manual,1
+i10,2011,2.95,4.6,53460,Petrol,Dealer,Manual,0
+swift,2011,3,4.99,20000,Petrol,Dealer,Manual,0
+TVS Jupyter,2014,0.35,0.52,19000,Petrol,Individual,Automatic,0
+TVS Sport ,2017,0.48,0.52,15000,Petrol,Individual,Manual,0
+verna,2013,5.11,9.4,36198,Petrol,Dealer,Automatic,0
+vitara brezza,2018,9.25,9.83,2071,Diesel,Dealer,Manual,0
+wagon r,2011,2.85,4.15,5200,Petrol,Dealer,Manual,0
+xcent,2017,5.75,7.13,12479,Petrol,Dealer,Manual,0
+Yamaha Fazer ,2014,0.5,0.88,8000,Petrol,Individual,Manual,0
+Yamaha FZ  v 2.0,2015,0.6,0.84,29000,Petrol,Individual,Manual,0
+Yamaha FZ  v 2.0,2016,0.6,0.84,25000,Petrol,Individual,Manual,0
+Yamaha FZ 16,2015,0.75,0.82,18000,Petrol,Individual,Manual,0
+Yamaha FZ S ,2012,0.4,0.83,5500,Petrol,Individual,Manual,0
+Yamaha FZ S V 2.0,2017,0.78,0.84,5000,Petrol,Individual,Manual,0
+Yamaha FZ S V 2.0,2015,0.55,0.84,58000,Petrol,Individual,Manual,0
+Yamaha FZ S V 2.0,2015,0.48,0.84,23000,Petrol,Individual,Manual,0
