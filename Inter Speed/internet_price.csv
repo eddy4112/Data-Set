@@ -1,0 +1,30 @@
+Country code,Name,Continent,NO of Plans ,Avg Price,Cheapest,Most Expensive,Avg Price (2021),Avg Price (2020)
+AT,Austria,Europe,60,1.17,0.24,23.43,1.08,1.88
+BR,Brazil,Americas,58,0.92,0.18,2.72,1.01,3.5
+CA,Canada,Americas,60,5.72,0.8,79.54,12.55,13.21
+DK,Denmark,Europe,34,0.79,0,2.23,0.8,1.36
+EG,Egypt,Africa,40,1.04,0.02,2.38,1.09,1.49
+FR,France,Europe,45,0.41,0.09,118.2,0.81,1.21
+DE,Germany,Europe,60,3.38,0.35,11.83,4.06,6.96
+HU,Hungary,Europe,21,1.7,0.16,8.04,5.32,2.91
+IN,India,Asia,58,0.68,0.05,2.73,0.09,0.26
+IT,Italy,Europe,29,0.27,0.09,3.54,0.43,1.73
+JP,Japan,Asia,35,3.38,0.88,45.53,3.91,10.4
+KW,Kuwait,Asia,42,0.81,0.01,6.29,0.77,2.01
+LA,Laos,Asia,25,3.19,0.18,4.25,4.16,3.42
+MX,Mexico,Americas,45,3.62,1.2,12.06,4.77,15.05
+NZ,New Zealand,Oceania,36,6.99,1.22,27.98,6.06,9.79
+OM,Oman,Asia,60,2.12,0.13,8.67,4.58,11.28
+PK,Pakistan,Asia,60,0.59,0.06,8.59,0.69,1.85
+QA,Qatar,Asia,9,3.2,1.1,4.39,4.12,12.57
+KR,South Korea,Europe,18,4.72,0.06,96.88,10.94,9.21
+ES,Spain,Asia,44,1.24,0.57,57.98,1.81,0.56
+LK,Sri Lanka,Europe,60,0.38,0,5.53,0.51,0.78
+SE,Sweden,Asia,58,1.45,0.2,75.08,2.07,3.66
+CH,Switzerland,Europe,14,5.24,1.6,17.83,8.38,20.22
+TW,Taiwan,Europe,42,5.67,0.42,46.67,5.91,12.02
+TH,Thailand,Asia,60,1.06,0.34,10.32,1.23,2.78
+TR,Turkey,Asia,60,0.63,0.05,2.26,0.72,2.25
+UG,Uganda,Europe,60,1.56,0.45,22.71,1.62,5.02
+UA,Ukraine,Europe,19,0.75,0.14,35.88,0.46,5.93
+US,United States,Americas,45,3.33,1,30,8,8.34
